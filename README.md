@@ -4,7 +4,7 @@
 **請將作業上傳到自己的 GitHub 儲存庫**  
 **再將本檔案下方的作業連結改為自己的 GitHub 儲存庫**  
 **未修改連結或未開啟 GitHub Pages 視同零分**  
-**繳交未修改的上課範例檔案視同零分**
+**繳交上課範例、或是繳交修改過的上課範例 （改顏色、換圖片） 視同零分**
 
 ## 繳交時間
 2024 年 1 月 21 日
@@ -38,4 +38,4 @@
 若使用 GitHub 網頁進行 commit 會依次數扣分
 
 ## 作業連結
-- [GitHub](https://GitHub.com/)
+- [GitHub](https://github.com/homeroom83/cherries-pomodoro)
